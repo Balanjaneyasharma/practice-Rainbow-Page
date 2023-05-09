@@ -5,6 +5,7 @@ sum=(m)=>{
             count+=i;
         }
     }
+    console.log('hi this nothing');
     return count;
 }
 console.log(sum(345676565));
